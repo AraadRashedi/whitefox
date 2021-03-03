@@ -1,0 +1,9 @@
+[
+  { "value": 1, "action": "add" },
+  { "value": 2, "action": "multiply" },
+  { "value": 3, "action": "add" },
+  { "value": 4, "action": "add" },
+  { "value": 4, "action": "p" },
+  { "value": 5, "action": "multiply" },
+  { "value": 6, "action": "multiply" }
+]
